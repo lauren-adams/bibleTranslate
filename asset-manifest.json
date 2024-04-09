@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.a700d49d.js",
-    "static/js/787.edd59a96.chunk.js": "/react-gh-pages/static/js/787.edd59a96.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.a700d49d.js.map": "/react-gh-pages/static/js/main.a700d49d.js.map",
-    "787.edd59a96.chunk.js.map": "/react-gh-pages/static/js/787.edd59a96.chunk.js.map"
+    "main.css": "//lauren-adams.github.io/bibleTranslate/static/css/main.073c9b0a.css",
+    "main.js": "//lauren-adams.github.io/bibleTranslate/static/js/main.b090b047.js",
+    "static/js/787.edd59a96.chunk.js": "//lauren-adams.github.io/bibleTranslate/static/js/787.edd59a96.chunk.js",
+    "static/media/logo.svg": "//lauren-adams.github.io/bibleTranslate/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//lauren-adams.github.io/bibleTranslate/index.html",
+    "main.073c9b0a.css.map": "//lauren-adams.github.io/bibleTranslate/static/css/main.073c9b0a.css.map",
+    "main.b090b047.js.map": "//lauren-adams.github.io/bibleTranslate/static/js/main.b090b047.js.map",
+    "787.edd59a96.chunk.js.map": "//lauren-adams.github.io/bibleTranslate/static/js/787.edd59a96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a700d49d.js"
+    "static/js/main.b090b047.js"
   ]
 }
