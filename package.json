@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "5.0.0",
+  "homepage": "http://divinetranslation.baylor.ai/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
