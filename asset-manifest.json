@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3299c9b.css",
-    "main.js": "/static/js/main.b04e4f9c.js",
-    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
-    "index.html": "/index.html",
-    "main.b3299c9b.css.map": "/static/css/main.b3299c9b.css.map",
-    "main.b04e4f9c.js.map": "/static/js/main.b04e4f9c.js.map",
-    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/bibleTranslate/static/css/main.b3299c9b.css",
+    "main.js": "/bibleTranslate/static/js/main.c73cdb36.js",
+    "static/js/787.d4aba7ab.chunk.js": "/bibleTranslate/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/bibleTranslate/index.html",
+    "main.b3299c9b.css.map": "/bibleTranslate/static/css/main.b3299c9b.css.map",
+    "main.c73cdb36.js.map": "/bibleTranslate/static/js/main.c73cdb36.js.map",
+    "787.d4aba7ab.chunk.js.map": "/bibleTranslate/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3299c9b.css",
-    "static/js/main.b04e4f9c.js"
+    "static/js/main.c73cdb36.js"
   ]
 }
