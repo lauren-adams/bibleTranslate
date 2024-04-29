@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
-const API_URL = 'http://localhost:8001/';
+//const API_URL = 'http://localhost:8001/';
+const API_URL = 'https://b63bfdks-8000.usw3.devtunnels.ms/translate/';
 
 const WordSelector = ({ data }) => {
   const [selectedWord, setSelectedWord] = useState('');
@@ -11,7 +12,7 @@ const WordSelector = ({ data }) => {
       // Find the corresponding word in data.inputText based on the index
       const compareWord = data.inputText.split(' ')[data.translatedText.split(' ').indexOf(selectedWord)];
 
-      const apiUrl = `http://localhost:8001/word_similarity/?initial=${compareWord}&compare=${selectedWord}&lang1=eng&lang2=${data.targetLang}&limit=5`;
+      const apiUrl = `https://b63bfdks-8000.usw3.devtunnels.ms/?initial=${compareWord}&compare=${selectedWord}&lang1=eng&lang2=${data.targetLang}&limit=5`;
 
       fetch(apiUrl)
         .then(response => response.json())
